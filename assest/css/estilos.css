@@ -1,9 +1,19 @@
 
+body{
+   background: rgb(247,255,249);
+background: linear-gradient(0deg, rgba(247,255,249,1) 0%, rgba(90,182,171,1) 100%);
+}
+
+.perfil {
+  margin-top: -100px; 
+}
+  
 
 .navbar.navbar-expand-lg{
-   background: rgb(107,200,255);
-   background: radial-gradient(circle, rgba(107,200,255,1) 0%, rgba(0,48,78,1) 39%, rgba(39,61,82,1) 49%, rgba(0,48,78,1) 100%);
+   background: rgb(1,14,4);
+   background: linear-gradient(0deg, rgba(1,14,4,1) 0%, rgba(90,182,171,1) 100%);
 }
+
 
 
 
